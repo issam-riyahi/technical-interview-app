@@ -25,7 +25,7 @@ export default function Home() {
                   <form>
                      <div className="input__group flex gap-2 w-full">
                         <input
-                           className="h-14 xl:h-16  px-6 w-full max-w-xs flex-shrink outline-none rounded-full border border-woodsmoke "
+                           className="h-14 xl:h-16  px-6 w-full md:w-[320px]  max-w-xs flex-shrink outline-none rounded-full border border-woodsmoke "
                            type="email"
                            name="email"
                            id="input-email"
