@@ -121,7 +121,7 @@ export default function Home() {
                      </li>
                   </ul>
                </div>
-               <div className="w-full xl:flex xl:justify-between items-center border-t border-woodsmoke md:px-[100px]  xl:ps-[180px] ">
+               <div className="w-full xl:flex xl:justify-between items-center border-t border-woodsmoke md:ps-[100px]  xl:ps-[180px] ">
                   <ul className="footer__term hidden xl:block ">
                      <li>
                         <a href="">Privacy Policy</a>
